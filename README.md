@@ -1,5 +1,3 @@
-Certainly! Here's an updated version of the README file that includes the technologies used for the frontend and backend:
-
 ---
 
 # Media Management Application
